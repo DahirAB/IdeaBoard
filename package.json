@@ -1,0 +1,14 @@
+{
+	"name": "randomideas",
+	"version": "1.0.0",
+	"description": "application to post ur ideas with tags ",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"author": "Dahir abdulkadir",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.21.2"
+	}
+}
