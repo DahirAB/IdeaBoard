@@ -1,10 +1,10 @@
-# RandomIdeas App
+IdeaBoard App
 
-This is a fullstack application for sharing random ideas. It is a project in my **Modern JS From The Beginning** course.
+This is a fullstack application for Posting Ideas.
 
 This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
 
-<img src="assets/screen.png">
+
 
 ## Usage
 
@@ -48,7 +48,7 @@ cd client
 npm run build
 ```
 
-The production build will be put into the `public` folder, which is the Express static folder.
+The production build will be put into the `public` folder
 
 ### Environment Variables
 
