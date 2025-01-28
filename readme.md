@@ -1,6 +1,6 @@
 IdeaBoard App
 
-This is a fullstack application for Posting Ideas.
+This is a fullstack application for posting public ideas.
 
 This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
 
