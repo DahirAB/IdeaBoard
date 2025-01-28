@@ -1,5 +1,5 @@
 {
-  "name": "randomideas",
+  "name": "IdeaBoard",
   "version": "1.0.0",
   "description": "Idea sharing app",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Brad Traversy",
+  "author": "Dahir abdulkadir",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
